@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.authors = ["nebo7"]
   s.email = ''
   s.files = ["lib/uniflake.rb"] + Dir["lib/*/*/*.rb"]
-  s.homepage = ''
+  s.homepage = 'https://github.com/nebo7/uniflake'
   s.license = 'MIT'
 
 end
